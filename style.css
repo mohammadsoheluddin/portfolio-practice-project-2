@@ -125,19 +125,6 @@ h3 {
     margin-top: 150px;
 }
 
-/* .positive-section {
-    background-image: url(/images/watch.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    border-radius: 10px;
-} */
-
-.positive-section {
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
-}
-
 .positive-section img{
     position: absolute;
     border-radius: 10px;
