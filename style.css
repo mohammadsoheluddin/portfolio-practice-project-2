@@ -125,17 +125,32 @@ h3 {
     margin-top: 150px;
 }
 
-.positive-section {
+/* .positive-section {
     background-image: url(/images/watch.png);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 10px;
+} */
+
+.positive-section {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.positive-section img{
+    position: absolute;
+    border-radius: 10px;
+
 }
 
 .positive-mindset {
     background: linear-gradient(90deg, #f15c0c 0%, rgba(241, 92, 12, 0.00) 100%);
-    padding: 50px;
+    padding: 40px;
     border-radius: 10px;
+    position: relative;
+    height: 222px;
+
 }
 
 .positive-mindset h1 {
